@@ -8,10 +8,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
     <a href="https://flaviovieiraj.github.io/myteampage-devChallenges/">
       Solution
     </a>
