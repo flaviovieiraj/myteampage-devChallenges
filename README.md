@@ -63,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/flaviovieiraj)
+- GitHub [@flaviovieiraj](https://github.com/flaviovieiraj)
