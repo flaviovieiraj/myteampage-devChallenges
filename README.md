@@ -8,11 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://flaviovieiraj.github.io/myteampage-devChallenges/">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/flaviovieiraj/myteampage-devChallenges/blob/main/overview.png?raw=true)
 
 ### Built With
 
@@ -63,4 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/flaviovieiraj)
+- GitHub [@flaviovieiraj](https://github.com/flaviovieiraj)
