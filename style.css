@@ -14,8 +14,8 @@ img {
 }
 
 .grid > div {
-  width: 250px;
-  height: 400px;
+  width: 400px;
+  height: 600px;
 }
 
 .grid > figure {
@@ -29,10 +29,12 @@ img {
 
 .grid {
   display: grid;
-  gap: 10px;
+  gap: 290px;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-auto-rows: 450px;
   margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .grid .wide {
@@ -80,7 +82,7 @@ p {
 }
 
 footer {
-  margin-top: 150px;
+  margin-top: 300px;
   text-align: center;
   font-family: "Montserrat";
   color: #bdbdbd;
@@ -101,8 +103,8 @@ footer {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   width: 10px;
-  top: -110%;
-  left: 102%;
+  top: -105%;
+  left: 105%;
 position: relative;
 text-transform: uppercase;
 font-size: 12px;
